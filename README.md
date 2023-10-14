@@ -1,3 +1,3 @@
 # Programming_Fundamentals
 
-Como auxiliar de investigación, parte de mis obligaciones es dar seminarios sobre temas de análisis y tecnicas cuantitativas, en este repositorio se encuentra los materiales de un curso sobre fundamentos de la programación.
+As a Research Assistant doing statistical consulting on research projects with researchers of different background, I find that is important to familiarize them with coding/programming experience, this will have resources/exercises for them. (The material come from seminars/courses that I thought them on different occasions)
